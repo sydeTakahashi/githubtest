@@ -1,5 +1,5 @@
 <?php
 
-echo "git test";
+echo "GitHub Branch test";
 
 ?>
